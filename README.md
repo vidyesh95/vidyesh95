@@ -21,7 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me vidyesh95@gmail.com
 
 [![Vidyesh GitHub stats](https://github-readme-stats.vercel.app/api?username=vidyesh95)](https://github.com/vidyesh95/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyesh95&langs_count=8)](https://github.com/vidyesh95/github-readme-stats)
-
-
+![](https://komarev.com/ghpvc/?username=vidyesh95)
