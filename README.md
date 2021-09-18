@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @vidyeshchuri
+- 👋 Hi, I’m @vidyesh
 - 👀 I’m interested in a.i. based app development
 - 🌱 I’m currently learning a.i.
 - 💞️ I’m looking to collaborate on app development
