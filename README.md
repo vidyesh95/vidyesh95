@@ -40,4 +40,34 @@ Here are some ideas to get you started:
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyesh95&langs_count=8)](https://github.com/vidyesh95/github-readme-stats)
 ##
+## 📘 Maths resources
+##
+## 📗 Android resources
+##
+## 📙 Machine learning resources
+[Machine learning crashcourse](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
+[Machine learning foundations](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV)
+
+[ML kit](https://developers.google.com/ml-kit/)
+
+[Android machine learning](https://developer.android.com/courses/pathways/android-week2-machine-learning?hl=en)
+
+[Tensorflow lite on android](https://www.tensorflow.org/lite/guide/android)
+
+[Dual deployment on vertex ai](https://cloud.google.com/blog/topics/developers-practitioners/dual-deployments-vertex-ai)
+
+[Tensorflow hub : Ready to deploy machine learning models](https://tfhub.dev/)
+
+https://www.kaggle.com/
+
+https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
+
+https://d2l.ai/index.html
+
+https://www.deeplearningbook.org/
+
+https://hagan.okstate.edu/NNDesign.pdf
+
+##
 ![](https://komarev.com/ghpvc/?username=vidyesh95)
