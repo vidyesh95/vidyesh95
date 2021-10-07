@@ -48,6 +48,17 @@ Here are some ideas to get you started:
 [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 ##
 ## 📗 Android resources
+[Kotlin docs](https://kotlinlang.org/docs/home.html)
+
+[Kotlin for Jetpack Compose](https://developer.android.com/jetpack/compose/kotlin)
+
+[Jetpack Compose](https://developer.android.com/jetpack/compose/documentation)
+
+[Kotlin for android](https://developer.android.com/kotlin)
+
+[Developing Android Apps with Kotlin](https://classroom.udacity.com/courses/ud9012)
+
+[Advanced Android App Development](https://classroom.udacity.com/courses/ud855)
 ##
 ## 📙 Machine learning resources
 [Machine learning crashcourse](https://developers.google.com/machine-learning/crash-course/ml-intro)
